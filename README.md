@@ -1,0 +1,1 @@
+# ts-max-sample-code
